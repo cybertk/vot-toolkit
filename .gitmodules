@@ -1,0 +1,3 @@
+[submodule "native/trax"]
+	path = native/trax
+	url = https://github.com/votchallenge/trax
